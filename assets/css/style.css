@@ -331,7 +331,7 @@ tbody tr:hover {
 }
 
 .contact-form {
-    width: 100%;
+    width: 350%;
     background: #fff;
     padding: 35px;
     border-radius: 18px;
@@ -446,7 +446,7 @@ textarea {
 }
 
 .location-iframe {
-    width: 100%;
+    width: 350%;
     background: #fff;
     padding: 35px;
     border-radius: 18px;
